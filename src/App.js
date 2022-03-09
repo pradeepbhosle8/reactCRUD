@@ -7,7 +7,7 @@ import Footer from "./layout/footer";
 import Header from "./layout/Header";
 import Sidebar from "./layout/sidebar";
 import {BrowserRouter , Route, Routes} from 'react-router-dom'
-import Users from "./components/pages/Users";
+import Users from "./components/pages/users/Users";
 import Role from "./components/pages/Role";
 
 

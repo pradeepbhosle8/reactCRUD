@@ -33,7 +33,7 @@ const Dashboard = () => {
               <div className="card-header border-0">
                 <div className="d-flex justify-content-between">
                   <h3 className="card-title">Online Store Visitors</h3>
-                  <a href="">View Report</a>
+               
                 </div>
               </div>
               <div className="card-body">
@@ -72,12 +72,7 @@ const Dashboard = () => {
               <div className="card-header border-0">
                 <h3 className="card-title">Products</h3>
                 <div className="card-tools">
-                  <a href="#" className="btn btn-tool btn-sm">
-                    <i className="fas fa-download"></i>
-                  </a>
-                  <a href="#" className="btn btn-tool btn-sm">
-                    <i className="fas fa-bars"></i>
-                  </a>
+                 
                 </div>
               </div>
               <div className="card-body table-responsive p-0">
@@ -105,9 +100,7 @@ const Dashboard = () => {
                       12,000 Sold
                     </td>
                     <td>
-                      <a href="#" className="text-muted">
-                        <i className="fas fa-search"></i>
-                      </a>
+                    
                     </td>
                   </tr>
                   <tr>
@@ -124,9 +117,7 @@ const Dashboard = () => {
                       123,234 Sold
                     </td>
                     <td>
-                      <a href="#" className="text-muted">
-                        <i className="fas fa-search"></i>
-                      </a>
+                   
                     </td>
                   </tr>
                   <tr>
@@ -143,9 +134,7 @@ const Dashboard = () => {
                       198 Sold
                     </td>
                     <td>
-                      <a href="#" className="text-muted">
-                        <i className="fas fa-search"></i>
-                      </a>
+                    
                     </td>
                   </tr>
                   <tr>
@@ -163,9 +152,7 @@ const Dashboard = () => {
                       87 Sold
                     </td>
                     <td>
-                      <a href="#" className="text-muted">
-                        <i className="fas fa-search"></i>
-                      </a>
+                     
                     </td>
                   </tr>
                   </tbody>
@@ -180,7 +167,7 @@ const Dashboard = () => {
               <div className="card-header border-0">
                 <div className="d-flex justify-content-between">
                   <h3 className="card-title">Sales</h3>
-                  <a href="">View Report</a>
+               
                 </div>
               </div>
               <div className="card-body">
@@ -219,12 +206,7 @@ const Dashboard = () => {
               <div className="card-header border-0">
                 <h3 className="card-title">Online Store Overview</h3>
                 <div className="card-tools">
-                  <a href="#" className="btn btn-sm btn-tool">
-                    <i className="fas fa-download"></i>
-                  </a>
-                  <a href="#" className="btn btn-sm btn-tool">
-                    <i className="fas fa-bars"></i>
-                  </a>
+               
                 </div>
               </div>
               <div className="card-body">
